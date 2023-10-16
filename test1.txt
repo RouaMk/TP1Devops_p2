@@ -1,1 +1,5 @@
-salle208
+<<<<<<< HEAD
+hello
+=======
+hello
+>>>>>>> hotfix/correction-bug
